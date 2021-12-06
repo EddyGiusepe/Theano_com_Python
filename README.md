@@ -21,15 +21,18 @@ Nesta lição , seu objetivo é instalar o ``Theano`` e escrever um pequeno exem
 natureza simbólica dos programas Theano.
 
 ## Lição 02: Introdução ao TensorFlow
-TensorFlow é uma biblioteca Python para computação numérica rápida criada e lançada pelo Google. Como Theano, o TensorFlow deve ser usado para desenvolver modelos de aprendizado profundo.
+``TensorFlow`` é uma biblioteca Python para computação numérica rápida criada e lançada pelo ``Google``.
+Como ``Theano``, o ``TensorFlow`` deve ser usado para desenvolver modelos de aprendizado profundo.
 
-Com o apoio do Google, talvez usado em alguns de seus sistemas de produção e usado pelo grupo de pesquisa Google DeepMind, é uma plataforma que não podemos ignorar.
+Com o apoio do Google, talvez usado em alguns de seus sistemas de produção e usado pelo grupo de
+pesquisa ``Google DeepMind``, é uma plataforma que não podemos ignorar. Ao contrário de Theano,
+o TensorFlow tem mais foco na produção, com capacidade de execução em CPUs, GPUs e até mesmo em
+clusters muito grandes.
 
-Ao contrário de Theano, o TensorFlow tem mais foco na produção, com capacidade de execução em CPUs, GPUs e até mesmo em clusters muito grandes.
-
-Nesta seção , seu objetivo é instalar o TensorFlow e familiarizar-se com a sintaxe das expressões simbólicas usadas nos programas TensorFlow.
-
-Por exemplo, você pode instalar o TensorFlow usando pip. Existem muitas versões diferentes do TensorFlow, especializadas para cada plataforma. Selecione a versão certa para sua plataforma
+Nesta seção, nosso objetivo é instalar o TensorFlow e familiarizar-se com a sintaxe das expressões
+simbólicas usadas nos programas TensorFlow. Por exemplo, você pode instalar o ``TensorFlow`` usando
+``pip``. Existem muitas versões diferentes do TensorFlow, especializadas para cada plataforma.
+Selecione a versão certa para sua plataforma.
 
 
 
