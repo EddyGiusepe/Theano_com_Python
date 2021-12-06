@@ -1,0 +1,16 @@
+pip~=21.2.4
+typing~=3.7.4.3
+keyring~=18.0.1
+pytest~=6.2.4
+numpy~=1.20.3
+setuptools~=57.4.0
+pytz~=2019.3
+cffi~=1.14.5
+numba~=0.53.1
+scipy~=1.6.3
+matplotlib~=3.4.2
+mpmath~=1.2.1
+sympy~=1.8
+six~=1.14.0
+requests~=2.22.0
+flake8~=3.9.2
